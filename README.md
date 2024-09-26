@@ -1,6 +1,6 @@
 # .NET Login Resitration
 
-##For Registration PROCEDURE in DB
+## For Registration PROCEDURE in DB
 ```
 CREATE PROCEDURE sp_register
     @Uname NVARCHAR(100),
@@ -23,7 +23,7 @@ END
 
 ```
 
-##For Login PROCEDURE in DB
+## For Login PROCEDURE in DB
 ```
 CREATE PROCEDURE sp_login
     @Email NVARCHAR(100),
